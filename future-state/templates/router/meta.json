@@ -1,0 +1,9 @@
+{
+	"id": "@tongal/templates/router",
+	"variables": {
+		"page": {
+			"type": "string",
+			"regex": "[A-Z].*"
+		}
+	}
+}

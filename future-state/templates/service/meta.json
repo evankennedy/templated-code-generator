@@ -1,0 +1,10 @@
+{
+	"id": "@tongal/templates/service",
+	"location": "./src/*",
+	"variables": {
+		"name": {
+			"type": "string",
+			"regex": "^[A-Z].*Service$"
+		}
+	}
+}

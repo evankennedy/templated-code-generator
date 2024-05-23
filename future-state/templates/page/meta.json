@@ -1,0 +1,13 @@
+{
+	"id": "@tongal/templates/page",
+	"variables": {
+		"name": {
+			"type": "string",
+			"regex": "^[A-Z].*Page$"
+		},
+		"path": {
+			"type": "string",
+			"regex": "^[a-z0-9_-]+(/[a-z0-9_-]+)*$"
+		}
+	}
+}

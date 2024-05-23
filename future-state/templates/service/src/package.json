@@ -1,0 +1,5 @@
+{
+	"name": "{{packageName}}",
+	"private": true,
+	"exports": "./index.ts"
+}

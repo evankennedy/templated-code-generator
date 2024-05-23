@@ -1,0 +1,12 @@
+{
+	// File, package, or URL
+	"extends": "@tongal/templates/base-template-config",
+
+	// Templates repository list. Can be file, package, or URL.
+	"templates": [
+		"./templates",
+		"/home/user/templates",
+		"@tongal/templates",
+		"https://repo.tongal.com/templates"
+	]
+}
